@@ -1,5 +1,4 @@
-﻿[LeagueSharp]
-Url=www.baidu.com
-MD51=123456
-MD52=654321
-Name=小伟合集.dll
+﻿[Name]小伟合集.dll[Name]
+[Url]www.baidu.com[Url]
+[MD51]123456[MD51]
+[MD51]654321[MD52]
