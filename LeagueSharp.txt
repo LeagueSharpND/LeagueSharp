@@ -1,4 +1,4 @@
-[Name]LeagueSharp[Name]
+[Name]LeagueSharp.exe[Name]
 [Url]http://wx2.sinaimg.cn/mw690/007a63KZgy1frtfrd4qhhj302x02skjs.jpg[Url]
 [MD51]a0616282ebf040776a237179ab651072[MD51]
 [MD52]8151ba53d184e4056e15814bd76677f9[MD52]
