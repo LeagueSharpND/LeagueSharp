@@ -1,4 +1,4 @@
-﻿[Name]LeagueSharp.Core.dll[Name]
+﻿ [Name]LeagueSharp.Core.dll[Name]
 [Url]http://wx1.sinaimg.cn/mw690/007a63KZgy1frumuw8vgmj302x02snpg.jpg[Url]
 [MD51]c7274b308e976afda500ab38d140e483[MD51]
 [MD52]946e986bbab516fbf4aa0f4a07901336[MD52]
