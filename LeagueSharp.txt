@@ -1,6 +1,6 @@
 ///////////////////±‡¬Î≈–∂œ////////////////////
 [Name]LeagueSharp.exe[Name]
-[Url]http://wx2.sinaimg.cn/mw690/007a63KZgy1frvh0fiaitj302x02sx6v.jpg[Url]
+[Url]http://wx2.sinaimg.cn/large/007a63KZgy1frvh0fiaitj302x02sx6v.jpg[Url]
 [MD51]8ed00fa9467cf2570045eedab70382cc[MD51]
 [MD52]4c5c55695c762e815a251f34789180cc[MD52]
 [Big]8382632[Big]

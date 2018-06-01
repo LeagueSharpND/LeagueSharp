@@ -1,6 +1,6 @@
 ///////////////////±‡¬Î≈–∂œ////////////////////
 [Name]LeagueSharp.Evade.dll[Name]
-[Url]http://wx4.sinaimg.cn/mw690/007a63KZgy1frvbrwne9wj302x02s4d3.jpg[Url]
+[Url]http://wx4.sinaimg.cn/large/007a63KZgy1frvbrwne9wj302x02s4d3.jpg[Url]
 [MD51]4cd0c4ba28ff61365e260bf13abded0a[MD51]
 [MD52]40487ec0ba18c8d33e55cba633fe8457[MD52]
 [Big]547939[Big]

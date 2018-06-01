@@ -1,6 +1,6 @@
 ///////////////////±àÂëÅÐ¶Ï////////////////////
 [Name]L# - °Â°ÍÂí.dll[Name]
-[Url]http://wx4.sinaimg.cn/mw690/007a63KZgy1frvbvlf1jmj302x02sgz5.jpg[Url]
+[Url]http://wx4.sinaimg.cn/large/007a63KZgy1frvbvlf1jmj302x02sgz5.jpg[Url]
 [MD51]3bcd75741ee1d400a70902322c1788a3[MD51]
 [MD52]692881bb68106aadca752e7355438f0b[MD52]
 [Big]509463[Big]
